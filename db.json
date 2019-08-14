@@ -1,0 +1,13 @@
+{
+  "people": [
+    {
+      "name": "Teste 1",
+      "age": 21,
+      "cpf": "210.000.111.21",
+      "id": 1
+    }
+  ],
+  "profile":{
+    "name":"typicode"
+  }
+}
